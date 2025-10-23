@@ -124,3 +124,28 @@ React, PHP API Layer, MySQL, Tailwind CSS, Chart.js, REST API, JWT Auth, Cloudfl
 ---
 
 ### Codex Solutions — Building Scalable, Secure, and Smart Digital Products
+<!-- 
+Codex Solutions, CodexSolutions, Codex Solutions Pakistan, Shahzaib Developer, 
+Full Stack Developer Pakistan, Software Engineer Pakistan, Web Application Developer, 
+PHP Developer, Laravel Developer, WordPress Expert, WordPress Plugin Developer, WordPress Theme Developer, 
+Custom ERP Developer, ERP Software Pakistan, Contractor ERP System, 
+CRM Developer, CRM System Developer, Customer Relationship Management Software, 
+Business Automation Developer, Business Management System, 
+Courier Management Software, Courier Tracking System, Logistics Software Developer, 
+Inventory Management System, Billing Software, Accounting Software, HR Management System, 
+Sales Analytics Software, Dashboard Developer, Web Analytics Developer, 
+MySQL Database Expert, PHP MySQL Developer, JavaScript Developer, AJAX Developer, 
+Bootstrap Developer, Responsive Web Developer, Frontend Developer, Backend Developer, 
+Freelance Web Developer Pakistan, Professional Web Developer, Web Agency Pakistan, 
+Web Development Company Pakistan, Custom Web Solutions, Software Development Company, 
+Website Design & Development, Digital Solutions, Cloud ERP Developer, 
+E-Commerce Developer, WooCommerce Developer, Shopify Developer, 
+Business ERP Solutions, Data Management Systems, 
+Codex Solutions Software House, Codex Solutions Web Agency, Codex Solutions Developers, 
+Top Rated Web Developer Pakistan, Custom Dashboard Developer, Admin Panel Developer, 
+API Integration Expert, Web Application Automation, PHP OOP Developer, 
+Software Maintenance Services, Custom CMS Development, 
+Pakistan Software House, Karachi Developer, Lahore Developer, Islamabad Developer, 
+Enterprise Software Development, Tech Company Pakistan, Software Projects Portfolio
+-->
+
