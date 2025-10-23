@@ -1,198 +1,126 @@
-Codex Solutions — Web & Software Development Agency
-Empowering Businesses Through Technology and Automation
-About Us
+# Codex Solutions — Web & Software Development Agency  
 
-Codex Solutions is a professional web and software development agency led by Shahzaib Malik
-.
-We specialize in building high-performance ERP systems, WordPress websites, and data-driven web applications.
+### Building Scalable Digital Solutions with Precision and Performance  
 
-With expertise in PHP, MySQL, JavaScript, and WordPress, we help companies automate workflows, manage operations, and scale efficiently.
-Our focus is on delivering secure, optimized, and business-oriented solutions that drive measurable growth.
+---
 
-Official Website: codexsolutions.online
+## About Codex Solutions  
 
-LinkedIn: linkedin.com/in/shahzaib22
+**Codex Solutions** is a full-cycle web and software development agency led by [**Shahzaib Malik**](http://www.linkedin.com/in/shahzaib22).  
+We design and build **custom ERP systems, WordPress websites, and automation tools** for growing businesses.  
 
-Email: malik.shahzaib248.ms@gmail.com
+Our mission is simple:  
+**Transform complex business operations into fast, secure, and intelligent digital platforms.**
 
-Core Expertise
+- **Website:** [codexsolutions.online](https://codexsolutions.online)  
+- **Email:** malik.shahzaib248.ms@gmail.com  
+- **LinkedIn:** [linkedin.com/in/shahzaib22](http://www.linkedin.com/in/shahzaib22)
 
-Custom Web Software (ERP, CRM, HRM, POS, Analytics Dashboards)
+---
 
-WordPress Development (Themes, Plugins, WooCommerce)
+## Core Expertise  
 
-Courier & Logistics Management Systems
+- Full-Stack Web Development (PHP, MySQL, JS)  
+- WordPress Custom Themes & Plugins  
+- ERP, CRM, and Business Management Software  
+- Courier & Logistics Automation Systems  
+- Analytics Dashboards & Reporting Tools  
+- API Development & Integrations  
+- Secure Hosting, DevOps & Optimization  
 
-Business Process Automation & Workflow Optimization
+---
 
-Hosting, Security, and Deployment Solutions
+## Major Projects  
 
-Data Visualization and Reporting Tools
+### 1. Government Contractor Management System  
+**Client:** Confidential (Govt Contractor)  
+**Website:** [aztraderss.com](https://aztraderss.com)  
 
-Major Projects
-1. Government Contractor Management System
+**Overview:**  
+Developed an all-in-one business ERP that manages sales, purchases, expenses, invoices, and profitability analytics.  
+Separate portals for **Admin**, **Employee**, and **Client** with dashboards and editable database views.  
 
-Client: Confidential (Government Contractor)
-Website: aztraderss.com
+**Tech Stack:**  
+PHP (OOP), MySQL, JavaScript (ES6+), AJAX, Bootstrap 5, jQuery, Chart.js, DataTables, REST APIs, Cron Jobs, FPDF, Hostinger (cPanel), SSL, Git, FileZilla, Structured SQL Indexing, Authentication Security, Data Validation, HTTPS Encryption  
 
-Type: Enterprise Business ERP & Analytics Platform
+---
 
-Overview:
-A fully customized ERP software built for a government contractor to manage sales, purchase records, and expenses.
-The system calculates profit/loss automatically, generates invoices, and provides detailed analytics with role-based access for Admin, Employees, and Clients.
+### 2. Courier Management System  
+**Client:** Door to Door Logistic Services  
+**Website:** [doortodoorlogisticservices.com](https://doortodoorlogisticservices.com)  
 
-Tech Stack:
+**Overview:**  
+Web-based courier system automating tracking, delivery, and warehouse operations with dashboards for Admin, Customer, and Employee.  
 
-Frontend: HTML5, CSS3, JavaScript (ES6+), Bootstrap 5, AJAX, jQuery, Chart.js
+**Tech Stack:**  
+PHP (Core + OOP), MySQL, AJAX, jQuery, DataTables, Bootstrap 5, PHPSpreadsheet, FPDF, PHPMailer (SMTP), Google Analytics API, SSL, Hostinger, CSV/Excel Export, Authentication System  
 
-Backend: PHP (OOP), MySQL (Structured Database with Relationships), REST APIs, MVC Architecture
+---
 
-Security: CSRF Protection, Input Validation, SQL Injection Prevention, HTTPS Configuration
+### 3. ERA Supportix — Customer Service & Ticketing Platform  
+**Website:** [erasupportix.com](https://erasupportix.com)  
 
-Analytics: Chart.js, Dynamic Reports, Custom Filters
+**Overview:**  
+Ticket-based client support platform where customers can raise, manage, and monitor issues.  
+Admins can view performance insights and generate reports.  
 
-Hosting & Tools: Hostinger (cPanel), Git, FileZilla, phpMyAdmin, Cron Jobs
+**Tech Stack:**  
+PHP, MySQL, Bootstrap 4, AJAX, Chart.js, Role-Based Authentication, Dynamic Ticket System, Email Notifications, Cron Automation, Hostinger Deployment  
 
-Deployment: Git-based version control, Manual CI/CD through cPanel
+---
 
-2. Courier Management System — Door to Door Logistic Services
+### 4. Client Finder Software *(In Progress)*  
+**Type:** SaaS Web Platform (Internal Project)  
 
-Website: doortodoorlogisticservices.com
+**Overview:**  
+Automation platform to help agencies and freelancers manage clients, track leads, send proposals, and analyze data trends.  
 
-Type: Courier Tracking & Warehouse Management WebApp
+**Tech Stack:**  
+React, PHP API Layer, MySQL, Tailwind CSS, Chart.js, REST API, JWT Auth, Cloudflare CDN, Google API Integration, GitHub Actions (CI/CD), SSL Deployment  
 
-Overview:
-A complete logistics solution with real-time order tracking, package management, and invoicing.
-Includes dashboards for Admin, Employees, and Customers with weight-based billing, order history, and analytics.
+---
 
-Tech Stack:
+## Tech Stack Overview  
 
-Frontend: HTML5, CSS3, Bootstrap 5, JavaScript, jQuery, DataTables, AJAX
+| Category | Technologies |
+|-----------|--------------|
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), jQuery, AJAX, Bootstrap, Tailwind, React, Vue.js |
+| **Backend** | PHP (OOP), Laravel (Basic), Node.js, Express.js, REST APIs, Authentication Systems |
+| **Databases** | MySQL, MariaDB, SQLite, MongoDB (Basic), SQL Triggers, Procedures, Index Optimization |
+| **CMS & Frameworks** | WordPress (Themes, Plugins, WooCommerce), Shopify (Basic), Elementor, ACF |
+| **ERP Modules** | Inventory, HRM, CRM, POS, Finance, Analytics, Reporting |
+| **DevOps & Hosting** | Hostinger, cPanel, VPS, Apache, Nginx, Git, GitHub, SSH, Cron Jobs, SSL, Cloudflare |
+| **Security** | Input Sanitization, SQL Injection Prevention, XSS Protection, HTTPS Enforcement, Token Auth |
+| **Analytics & Reporting** | Chart.js, DataTables, Google Analytics, Power BI (Basic), PHPSpreadsheet |
+| **Design Tools** | Figma, Adobe XD, Canva, Font Awesome |
+| **APIs & Integration** | Google Maps, Stripe, PayPal, JazzCash, EasyPaisa, SMS Gateways, PHPMailer |
+| **Utilities** | JSON, XML, CSV Export, FPDF, DOMPDF, GD Library, Excel Export |
+| **Project Management** | Trello, Jira, Notion, GitHub Projects, Agile Workflows |
 
-Backend: PHP (Procedural + OOP), MySQL (Relational Model), REST APIs
+---
 
-Features: Order Tracking, Invoice Generation (PDF), Auto Status Update, Data Export (CSV/XLSX)
+## Featured Websites  
 
-Analytics: Chart.js, Google Analytics Integration
+- [codexsolutions.online](https://codexsolutions.online) — Official Portfolio  
+- [aztraderss.com](https://aztraderss.com) — ERP Software  
+- [doortodoorlogisticservices.com](https://doortodoorlogisticservices.com) — Courier Automation  
+- [erasupportix.com](https://erasupportix.com) — Support Platform  
 
-Security: Authentication System (Session-Based), Form Validation, HTTPS
+---
 
-Deployment & Hosting: Hostinger, cPanel, DNS Management, SSL Configuration
+## GitHub Activity  
 
-Utilities: PHPSpreadsheet, FPDF, PHPMailer for Email Notifications
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Codex-Solutions&show_icons=true&theme=github_dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codex-Solutions&layout=compact&theme=github_dark)
 
-3. ERA Supportix — Service Support System
+---
 
-Website: erasupportix.com
+## Contact  
 
-Type: Ticket-based Client Support and Performance Monitoring Platform
+**Email:** malik.shahzaib248.ms@gmail.com  
+**LinkedIn:** [linkedin.com/in/shahzaib22](http://www.linkedin.com/in/shahzaib22)  
+**Website:** [codexsolutions.online](https://codexsolutions.online)
 
-Overview:
-Built to manage customer support tickets efficiently.
-Includes client and admin panels with analytics, team performance tracking, and automated ticket status updates.
+---
 
-Tech Stack:
-
-Frontend: HTML5, CSS3, Bootstrap 4, JavaScript, AJAX
-
-Backend: PHP (Core), MySQL, MVC Architecture
-
-Features: Dynamic Ticket System, Search & Filter, Client Authentication, Role-Based Access
-
-Analytics: Custom Dashboard with Daily Reports
-
-Tools: VS Code, Git, phpMyAdmin, Cron Jobs
-
-Deployment: Hostinger cPanel, Git-based code updates
-
-4. Client Finder Software (In Progress)
-
-Type: Agency Internal Project
-
-Overview:
-A SaaS-style platform to help freelancers and agencies manage clients, track leads, proposals, and automate outreach.
-Includes advanced analytics and task automation.
-
-Tech Stack:
-
-Frontend: React (Next Phase), Tailwind CSS, JavaScript (ES6), Bootstrap 5
-
-Backend: PHP (API Layer), MySQL, RESTful Architecture, JSON Data Exchange
-
-Automation: Cron Jobs, Notification Triggers, Lead Categorization Logic
-
-Analytics: Chart.js, Custom Reports, Google API Integration
-
-Hosting: Hostinger, Cloudflare CDN
-
-Security: SSL Encryption, Token-Based Authentication (Planned)
-
-Tools and Technologies
-
-Frontend Development
-HTML5, CSS3, JavaScript (ES6+), jQuery, AJAX, Bootstrap, Tailwind CSS, React (Basic), Vue.js (Basic)
-
-Backend Development
-PHP (Core & OOP), Laravel (Basic), Node.js, Express.js, REST APIs, Authentication (JWT, Session), MVC Architecture
-
-Databases
-MySQL, MariaDB, SQLite, MongoDB (Basic), phpMyAdmin, SQL Procedures, Indexing Optimization
-
-CMS & Frameworks
-WordPress (Themes, Plugins, WooCommerce), Shopify (Basic), Elementor, ACF, Laravel Blade
-
-ERP & Software Modules
-Inventory, HRM, CRM, POS, Analytics, Project Management, Finance, Reporting
-
-DevOps & Deployment
-Hostinger, cPanel, VPS, Apache, Nginx, Git, GitHub, GitLab, SSH, Cron Jobs, SSL, GitHub Actions
-
-Security & Optimization
-Data Sanitization, SQL Injection Prevention, XSS Protection, HTTPS, API Token Validation, SEO Optimization
-
-Analytics & Reporting
-Google Analytics, Chart.js, Power BI (Basic), DataTables, Custom Dashboards
-
-Design & UI Tools
-Figma, Adobe XD, Canva, Font Awesome, Responsive Design Frameworks
-
-API Integrations
-Google Maps, Stripe, PayPal, JazzCash, EasyPaisa, SMS Gateways, PHPMailer, SMTP
-
-Hosting & Cloud Services
-Hostinger, cPanel, Cloudflare, DigitalOcean, AWS (Basic EC2, S3), GitHub Pages
-
-Project Management Tools
-Trello, Jira, Notion, GitHub Projects, Agile Workflow, Markdown Docs
-
-Utilities
-JSON, XML, CSV Import/Export, PHPSpreadsheet, FPDF, DOMPDF, GD Library
-
-Featured Websites
-
-codexsolutions.online
- – Official Portfolio
-
-aztraderss.com
- – Business Contractor ERP
-
-doortodoorlogisticservices.com
- – Courier & Logistics
-
-erasupportix.com
- – Support System
-
-GitHub Stats
-
-Contact Codex Solutions
-
-Email: malik.shahzaib248.ms@gmail.com
-
-LinkedIn: linkedin.com/in/shahzaib22
-
-Website: codexsolutions.online
-
-Summary
-
-Codex Solutions provides end-to-end digital development services — from front-end design to backend architecture, database integration, and automated workflows.
-We develop enterprise-level systems, client portals, and business automation tools that help companies scale with confidence.
+### Codex Solutions — Building Scalable, Secure, and Smart Digital Products
